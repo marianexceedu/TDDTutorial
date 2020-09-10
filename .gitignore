@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Chatbot/Chatbot/obj
+/Chatbot/Chatbot.Tests/bin/Debug/netstandard2.0
+/Chatbot/Chatbot.Tests/obj
+/Chatbot/.vs/Chatbot
